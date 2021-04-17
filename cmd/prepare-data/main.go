@@ -194,8 +194,8 @@ func main() {
 		return
 	}
 
-	log.Println("writing data to teams-graph.json")
-	err = os.WriteFile("teams-graph.json", indentedBytes.Bytes(), 0644)
+	log.Println("writing data to assets/org-vis/teams-graph.json")
+	err = os.WriteFile("assets/org-vis/teams-graph.json", indentedBytes.Bytes(), 0644)
 	if err != nil {
 		log.Printf("Error writing yaml file: %v", err)
 		return

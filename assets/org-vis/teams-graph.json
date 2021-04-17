@@ -1,0 +1,410 @@
+[
+  {
+    "name": "giantswarm.sig.sig-admin/legal",
+    "memberships": []
+  },
+  {
+    "name": "giantswarm.sig.sig-architecture",
+    "memberships": []
+  },
+  {
+    "name": "giantswarm.sig.sig-company",
+    "memberships": []
+  },
+  {
+    "name": "giantswarm.sig.sig-content",
+    "memberships": []
+  },
+  {
+    "name": "giantswarm.sig.sig-culture",
+    "memberships": []
+  },
+  {
+    "name": "giantswarm.sig.sig-customer-happiness",
+    "memberships": []
+  },
+  {
+    "name": "giantswarm.sig.sig-diversity",
+    "memberships": []
+  },
+  {
+    "name": "giantswarm.sig.sig-docs",
+    "memberships": []
+  },
+  {
+    "name": "giantswarm.sig.sig-events",
+    "memberships": []
+  },
+  {
+    "name": "giantswarm.sig.sig-growth",
+    "memberships": []
+  },
+  {
+    "name": "giantswarm.sig.sig-infrastructure",
+    "memberships": []
+  },
+  {
+    "name": "giantswarm.sig.sig-monitoring",
+    "memberships": []
+  },
+  {
+    "name": "giantswarm.sig.sig-of-sigs",
+    "memberships": []
+  },
+  {
+    "name": "giantswarm.sig.sig-operator",
+    "memberships": []
+  },
+  {
+    "name": "giantswarm.sig.sig-opsprocess",
+    "memberships": []
+  },
+  {
+    "name": "giantswarm.sig.sig-partner",
+    "memberships": []
+  },
+  {
+    "name": "giantswarm.sig.sig-people",
+    "memberships": []
+  },
+  {
+    "name": "giantswarm.sig.sig-product",
+    "memberships": []
+  },
+  {
+    "name": "giantswarm.sig.sig-product-marketing",
+    "memberships": []
+  },
+  {
+    "name": "giantswarm.sig.sig-profits",
+    "memberships": []
+  },
+  {
+    "name": "giantswarm.sig.sig-recruiting",
+    "memberships": []
+  },
+  {
+    "name": "giantswarm.sig.sig-releng",
+    "memberships": []
+  },
+  {
+    "name": "giantswarm.sig.sig-sales",
+    "memberships": []
+  },
+  {
+    "name": "giantswarm.sig.sig-security",
+    "memberships": []
+  },
+  {
+    "name": "giantswarm.sig.sig-support",
+    "memberships": []
+  },
+  {
+    "name": "giantswarm.sig.sig-talks",
+    "memberships": []
+  },
+  {
+    "name": "giantswarm.sig.sig-ux",
+    "memberships": []
+  },
+  {
+    "name": "giantswarm.sig.sig-website",
+    "memberships": []
+  },
+  {
+    "name": "giantswarm.team.team-atlas",
+    "memberships": [
+      "giantswarm.sig.sig-architecture",
+      "giantswarm.sig.sig-content",
+      "giantswarm.sig.sig-culture",
+      "giantswarm.sig.sig-customer-happiness",
+      "giantswarm.sig.sig-diversity",
+      "giantswarm.sig.sig-docs",
+      "giantswarm.sig.sig-infrastructure",
+      "giantswarm.sig.sig-monitoring",
+      "giantswarm.sig.sig-of-sigs",
+      "giantswarm.sig.sig-operator",
+      "giantswarm.sig.sig-opsprocess",
+      "giantswarm.sig.sig-product",
+      "giantswarm.sig.sig-releng",
+      "giantswarm.sig.sig-security",
+      "giantswarm.sig.sig-ux",
+      "giantswarm.team.team-biscuit",
+      "giantswarm.team.team-empowerment",
+      "giantswarm.wg.wg-cluster-api",
+      "giantswarm.wg.wg-management-api",
+      "giantswarm.wg.wg-opa"
+    ]
+  },
+  {
+    "name": "giantswarm.team.team-batman",
+    "memberships": [
+      "giantswarm.sig.sig-architecture",
+      "giantswarm.sig.sig-content",
+      "giantswarm.sig.sig-diversity",
+      "giantswarm.sig.sig-docs",
+      "giantswarm.sig.sig-monitoring",
+      "giantswarm.sig.sig-of-sigs",
+      "giantswarm.sig.sig-operator",
+      "giantswarm.sig.sig-product",
+      "giantswarm.sig.sig-recruiting",
+      "giantswarm.sig.sig-releng",
+      "giantswarm.sig.sig-talks",
+      "giantswarm.sig.sig-ux",
+      "giantswarm.sig.sig-website",
+      "giantswarm.team.team-halo",
+      "giantswarm.wg.wg-integration-testing",
+      "giantswarm.wg.wg-k8s-1-18-deps",
+      "giantswarm.wg.wg-management-api"
+    ]
+  },
+  {
+    "name": "giantswarm.team.team-biscuit",
+    "memberships": [
+      "giantswarm.sig.sig-architecture",
+      "giantswarm.sig.sig-content",
+      "giantswarm.sig.sig-diversity",
+      "giantswarm.sig.sig-docs",
+      "giantswarm.sig.sig-infrastructure",
+      "giantswarm.sig.sig-monitoring",
+      "giantswarm.sig.sig-of-sigs",
+      "giantswarm.sig.sig-operator",
+      "giantswarm.sig.sig-opsprocess",
+      "giantswarm.sig.sig-product",
+      "giantswarm.sig.sig-releng",
+      "giantswarm.sig.sig-security",
+      "giantswarm.sig.sig-ux",
+      "giantswarm.team.team-atlas",
+      "giantswarm.team.team-empowerment",
+      "giantswarm.wg.wg-cluster-api",
+      "giantswarm.wg.wg-integration-testing",
+      "giantswarm.wg.wg-management-api",
+      "giantswarm.wg.wg-opa"
+    ]
+  },
+  {
+    "name": "giantswarm.team.team-celestial",
+    "memberships": [
+      "giantswarm.sig.sig-architecture",
+      "giantswarm.sig.sig-customer-happiness",
+      "giantswarm.sig.sig-infrastructure",
+      "giantswarm.sig.sig-monitoring",
+      "giantswarm.sig.sig-of-sigs",
+      "giantswarm.sig.sig-operator",
+      "giantswarm.sig.sig-opsprocess",
+      "giantswarm.sig.sig-product",
+      "giantswarm.sig.sig-security",
+      "giantswarm.team.team-ludacris",
+      "giantswarm.team.team-rocket",
+      "giantswarm.wg.wg-cluster-api",
+      "giantswarm.wg.wg-integration-testing",
+      "giantswarm.wg.wg-k8s-1-18-deps",
+      "giantswarm.wg.wg-successful-customer-upgrades"
+    ]
+  },
+  {
+    "name": "giantswarm.team.team-empowerment",
+    "memberships": [
+      "giantswarm.sig.sig-architecture",
+      "giantswarm.sig.sig-content",
+      "giantswarm.sig.sig-culture",
+      "giantswarm.sig.sig-customer-happiness",
+      "giantswarm.sig.sig-diversity",
+      "giantswarm.sig.sig-docs",
+      "giantswarm.sig.sig-infrastructure",
+      "giantswarm.sig.sig-monitoring",
+      "giantswarm.sig.sig-of-sigs",
+      "giantswarm.sig.sig-operator",
+      "giantswarm.sig.sig-opsprocess",
+      "giantswarm.sig.sig-product",
+      "giantswarm.sig.sig-releng",
+      "giantswarm.sig.sig-security",
+      "giantswarm.sig.sig-ux",
+      "giantswarm.team.team-atlas",
+      "giantswarm.team.team-biscuit",
+      "giantswarm.wg.wg-cluster-api",
+      "giantswarm.wg.wg-management-api",
+      "giantswarm.wg.wg-opa"
+    ]
+  },
+  {
+    "name": "giantswarm.team.team-firecracker",
+    "memberships": [
+      "giantswarm.sig.sig-architecture",
+      "giantswarm.sig.sig-infrastructure",
+      "giantswarm.sig.sig-monitoring",
+      "giantswarm.sig.sig-of-sigs",
+      "giantswarm.sig.sig-operator",
+      "giantswarm.sig.sig-product",
+      "giantswarm.sig.sig-security",
+      "giantswarm.sig.sig-ux",
+      "giantswarm.wg.wg-cluster-api",
+      "giantswarm.wg.wg-opa",
+      "giantswarm.wg.wg-successful-customer-upgrades"
+    ]
+  },
+  {
+    "name": "giantswarm.team.team-halo",
+    "memberships": [
+      "giantswarm.sig.sig-architecture",
+      "giantswarm.sig.sig-customer-happiness",
+      "giantswarm.sig.sig-diversity",
+      "giantswarm.sig.sig-docs",
+      "giantswarm.sig.sig-of-sigs",
+      "giantswarm.sig.sig-product",
+      "giantswarm.sig.sig-releng",
+      "giantswarm.sig.sig-security",
+      "giantswarm.sig.sig-support",
+      "giantswarm.sig.sig-ux",
+      "giantswarm.team.team-batman",
+      "giantswarm.team.team-rocket",
+      "giantswarm.wg.wg-cluster-api",
+      "giantswarm.wg.wg-management-api"
+    ]
+  },
+  {
+    "name": "giantswarm.team.team-horizon",
+    "memberships": [
+      "giantswarm.sig.sig-architecture",
+      "giantswarm.sig.sig-company",
+      "giantswarm.sig.sig-content",
+      "giantswarm.sig.sig-customer-happiness",
+      "giantswarm.sig.sig-diversity",
+      "giantswarm.sig.sig-docs",
+      "giantswarm.sig.sig-growth",
+      "giantswarm.sig.sig-of-sigs",
+      "giantswarm.sig.sig-partner",
+      "giantswarm.sig.sig-product",
+      "giantswarm.sig.sig-product-marketing",
+      "giantswarm.sig.sig-security",
+      "giantswarm.sig.sig-support",
+      "giantswarm.sig.sig-talks",
+      "giantswarm.sig.sig-ux",
+      "giantswarm.team.team-rainmakers",
+      "giantswarm.wg.wg-cluster-api",
+      "giantswarm.wg.wg-management-api",
+      "giantswarm.wg.wg-successful-customer-upgrades"
+    ]
+  },
+  {
+    "name": "giantswarm.team.team-ludacris",
+    "memberships": [
+      "giantswarm.sig.sig-architecture",
+      "giantswarm.sig.sig-customer-happiness",
+      "giantswarm.sig.sig-docs",
+      "giantswarm.sig.sig-infrastructure",
+      "giantswarm.sig.sig-of-sigs",
+      "giantswarm.sig.sig-operator",
+      "giantswarm.sig.sig-opsprocess",
+      "giantswarm.sig.sig-product",
+      "giantswarm.sig.sig-releng",
+      "giantswarm.sig.sig-security",
+      "giantswarm.sig.sig-talks",
+      "giantswarm.sig.sig-ux",
+      "giantswarm.team.team-celestial",
+      "giantswarm.team.team-rocket",
+      "giantswarm.wg.wg-cluster-api",
+      "giantswarm.wg.wg-integration-testing",
+      "giantswarm.wg.wg-successful-customer-upgrades"
+    ]
+  },
+  {
+    "name": "giantswarm.team.team-rainmakers",
+    "memberships": [
+      "giantswarm.sig.sig-admin/legal",
+      "giantswarm.sig.sig-architecture",
+      "giantswarm.sig.sig-company",
+      "giantswarm.sig.sig-content",
+      "giantswarm.sig.sig-culture",
+      "giantswarm.sig.sig-customer-happiness",
+      "giantswarm.sig.sig-diversity",
+      "giantswarm.sig.sig-docs",
+      "giantswarm.sig.sig-events",
+      "giantswarm.sig.sig-growth",
+      "giantswarm.sig.sig-of-sigs",
+      "giantswarm.sig.sig-partner",
+      "giantswarm.sig.sig-people",
+      "giantswarm.sig.sig-product",
+      "giantswarm.sig.sig-product-marketing",
+      "giantswarm.sig.sig-profits",
+      "giantswarm.sig.sig-recruiting",
+      "giantswarm.sig.sig-sales",
+      "giantswarm.sig.sig-support",
+      "giantswarm.sig.sig-talks",
+      "giantswarm.sig.sig-ux",
+      "giantswarm.sig.sig-website",
+      "giantswarm.team.team-horizon",
+      "giantswarm.team.team-team",
+      "giantswarm.wg.wg-successful-customer-upgrades"
+    ]
+  },
+  {
+    "name": "giantswarm.team.team-rocket",
+    "memberships": [
+      "giantswarm.sig.sig-architecture",
+      "giantswarm.sig.sig-customer-happiness",
+      "giantswarm.sig.sig-docs",
+      "giantswarm.sig.sig-infrastructure",
+      "giantswarm.sig.sig-monitoring",
+      "giantswarm.sig.sig-of-sigs",
+      "giantswarm.sig.sig-operator",
+      "giantswarm.sig.sig-opsprocess",
+      "giantswarm.sig.sig-product",
+      "giantswarm.sig.sig-releng",
+      "giantswarm.sig.sig-security",
+      "giantswarm.team.team-celestial",
+      "giantswarm.team.team-halo",
+      "giantswarm.team.team-ludacris",
+      "giantswarm.wg.wg-cluster-api",
+      "giantswarm.wg.wg-successful-customer-upgrades"
+    ]
+  },
+  {
+    "name": "giantswarm.team.team-team",
+    "memberships": [
+      "giantswarm.sig.sig-admin/legal",
+      "giantswarm.sig.sig-company",
+      "giantswarm.sig.sig-content",
+      "giantswarm.sig.sig-culture",
+      "giantswarm.sig.sig-customer-happiness",
+      "giantswarm.sig.sig-diversity",
+      "giantswarm.sig.sig-docs",
+      "giantswarm.sig.sig-events",
+      "giantswarm.sig.sig-of-sigs",
+      "giantswarm.sig.sig-partner",
+      "giantswarm.sig.sig-people",
+      "giantswarm.sig.sig-product-marketing",
+      "giantswarm.sig.sig-profits",
+      "giantswarm.sig.sig-recruiting",
+      "giantswarm.sig.sig-support",
+      "giantswarm.sig.sig-talks",
+      "giantswarm.sig.sig-website",
+      "giantswarm.team.team-rainmakers",
+      "giantswarm.wg.wg-successful-customer-upgrades"
+    ]
+  },
+  {
+    "name": "giantswarm.wg.wg-cluster-api",
+    "memberships": []
+  },
+  {
+    "name": "giantswarm.wg.wg-integration-testing",
+    "memberships": []
+  },
+  {
+    "name": "giantswarm.wg.wg-k8s-1-18-deps",
+    "memberships": []
+  },
+  {
+    "name": "giantswarm.wg.wg-management-api",
+    "memberships": []
+  },
+  {
+    "name": "giantswarm.wg.wg-opa",
+    "memberships": []
+  },
+  {
+    "name": "giantswarm.wg.wg-successful-customer-upgrades",
+    "memberships": []
+  }
+]
